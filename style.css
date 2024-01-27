@@ -1,0 +1,33 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    font-size: 2em;
+}
+
+h1{
+    color: rgb(59, 89, 154);
+}
+
+#mynum{
+    padding: 5px 10px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+#temp{
+    font-size: 1.5em;
+    padding: 10px 10px;
+}
+
+button{
+    background-color: rgb(224, 71, 71);
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: rgb(244, 107, 107);
+}
+
